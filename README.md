@@ -1,16 +1,35 @@
-### Hi there 👋
+Hi there 👋
+Welcome to my GitHub.
 
-<!--
-**kaewkors/kaewkors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+💻 I'm a full-stack web developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+⚡ My current skill sets are JavaScript, React, Redux, HTML, CSS, SQLite and REST APIs
+
+Things I'm currently learning:
+
+🌱 C
+🌱 Tailwindcss
+🌱 Ruby on Rails
+
+Things I'm actively working on:
+
+🔭 Portfolio - https://github.com/kaewkors
+🔭 Ruby on Rails
+
+If you're wondering why there are gaps in my GitHub activity:
+November - March - throughout the Enspiral Dev Academy Web Development bootcamp we often engaged in pair programming and the commits are through another student's GitHub account.
+Aprilrrent - currently in the process of solidifying my C & JavaScript techniques on CS50 and Freecodecamp!
+
+<-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
