@@ -3,7 +3,7 @@ Welcome to my GitHub.
 
 About me:
 
-💻 I'm a full-stack web developer
+💻 I'm an IT postgraduate
 ⚡ My current skill sets are Python, HTML, CSS, MySQL and AWS Database
 
 
